@@ -18,5 +18,5 @@ Simple voice-based desktop/laptop assistant that has the capability to:-
 
 # References
 
-https://realpython.com/python-speech-recognition/
-https://towardsdatascience.com/build-your-first-voice-assistant-85a5a49f6cc1
+- https://realpython.com/python-speech-recognition/
+- https://towardsdatascience.com/build-your-first-voice-assistant-85a5a49f6cc1
