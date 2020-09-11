@@ -15,8 +15,8 @@ Simple voice-based desktop/laptop assistant that has the capability to:-
 10. Tells you latest news feeds.
 11. Tells you about almost anything you ask.
 
-Interaction with Voice assistant:
-https://photos.google.com/share/AF1QipNJW9DztpXUh4dBJN06S4cwKHo0S1PyWZrTJqjaVJ5ZJysxzjI4pxazL3sd_hvAiw?key=U28yakRQOTdGcmFvMTktZnMwYmF4NGZMeVY5a0hB
 
-You can read this article to know more.
+# References
+
+https://realpython.com/python-speech-recognition/
 https://towardsdatascience.com/build-your-first-voice-assistant-85a5a49f6cc1
