@@ -22,3 +22,4 @@ Simple voice-based desktop/laptop assistant that has the capability to:-
 - https://towardsdatascience.com/build-your-first-voice-assistant-85a5a49f6cc1
 - https://www.slanglabs.in/blog/how-to-build-python-transcriber-using-mozilla-deepspeech
 - https://www.youtube.com/watch?v=7Mwcmo1o_ik
+- https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools/
