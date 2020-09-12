@@ -24,3 +24,4 @@ Simple voice-based desktop/laptop assistant that has the capability to:-
 - https://www.youtube.com/watch?v=7Mwcmo1o_ik
 - https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools/
 - https://www.youtube.com/watch?v=H9ZJ1uT8RFw&list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx&index=8
+- https://techwithtim.net/tutorials/voice-assistant/opening-programs/
